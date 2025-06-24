@@ -1,9 +1,13 @@
-import { Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 
 export default function DownloadsScreen() {
   return (
-    <View className="">
+    <View style={styles.container}>
       <Text>Downloads Page</Text>
     </View>
   );
 }
+
+const styles = StyleSheet.create({
+  container: {},
+});
