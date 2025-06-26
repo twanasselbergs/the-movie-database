@@ -7,7 +7,7 @@
 
 ## Overview
 
-The Movie DB is a mock project for an internship. It's built using React Native and the Fetch API.
+The Movie DB is a mock project. It's built using React Native and gets movie data from The Movie DB using the Fetch API.
 
 ## Author(s)
 
